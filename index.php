@@ -1,2 +1,1 @@
-# mittal-store
-# mittal-store again
+<?php include_once("index.html"); ?>
